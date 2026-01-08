@@ -1,2 +1,2 @@
-# CPSC5310_ML
-Machine Learning
+# CPSC5310_Machine Learning
+Course assignments and projects
