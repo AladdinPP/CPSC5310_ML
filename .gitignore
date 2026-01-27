@@ -2,7 +2,7 @@
 ./Materials
 ./Slides
 ./Write_Ups
-*.zip
-*.tgz
-*.docx
+\*.zip
+\*.tgz
+\*.docx
 Project/Dataset/creditcard.csv
