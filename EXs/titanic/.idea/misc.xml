@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.9" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="9df5dcf9-afc5-4b89-b6e5-7c36db939035" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (IBC_Chatbot)" project-jdk-type="Python SDK" />
+</project>

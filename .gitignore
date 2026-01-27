@@ -1,0 +1,8 @@
+./DC_Slides
+./Materials
+./Slides
+./Write_Ups
+*.zip
+*.tgz
+*.docx
+Project/Dataset/creditcard.csv
